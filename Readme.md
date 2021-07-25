@@ -22,6 +22,9 @@ First: output file
 Second: Text file having data to build a Min-Max Heap.
 
 Run the following commands to run this program
+	
 	make
+	
 Then
+
 	./MinMaxHeap data.txt
